@@ -15,7 +15,7 @@ Recording the Time Series Learning and Welcome to Pull Your Idea.
 &ensp; 2.1 [The Classic Case of Using SARIMA Model to Analyze Seasonal Time Series (Frist)](https://blog.csdn.net/weixin_41013322/article/details/116063395)
 
 
------------------------------The Following is the Chinese Version of the Above (以下是上面👆的中文版)---------------------------------------
+------------------------The Following is the Chinese Version of the Above (以下是上面👆的中文版)-------------------------------
 
 
 # 时间序列的学习
